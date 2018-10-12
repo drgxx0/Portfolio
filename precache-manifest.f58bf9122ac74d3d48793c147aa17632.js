@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/profile.96dbc23c.jpg"
   },
   {
-    "revision": "4106baddcd4fa554cc95",
+    "revision": "61d439a540bab1076dc4",
     "url": "/Portfolio/static/css/main.8d45e60a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/head.9a29976e.jpg"
   },
   {
-    "revision": "4106baddcd4fa554cc95",
-    "url": "/Portfolio/static/js/main.4106badd.chunk.js"
+    "revision": "61d439a540bab1076dc4",
+    "url": "/Portfolio/static/js/main.61d439a5.chunk.js"
   },
   {
     "revision": "f15e38fa62151951554fb254b737bc94",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/learnkorean.c99d85c3.jpg"
   },
   {
-    "revision": "2e08c98cb0fdf70886857198ef99b805",
+    "revision": "4bf552953244154be2d50833b447557b",
     "url": "/Portfolio/index.html"
   }
 ];
