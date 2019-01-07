@@ -1,7 +1,7 @@
 {
   "main.css": "/Portfolio/static/css/main.9dda6fa5.chunk.css",
-  "main.js": "/Portfolio/static/js/main.2581c3e0.chunk.js",
-  "main.js.map": "/Portfolio/static/js/main.2581c3e0.chunk.js.map",
+  "main.js": "/Portfolio/static/js/main.c8804a58.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.c8804a58.chunk.js.map",
   "static/js/1.9f2508be.chunk.js": "/Portfolio/static/js/1.9f2508be.chunk.js",
   "static/js/1.9f2508be.chunk.js.map": "/Portfolio/static/js/1.9f2508be.chunk.js.map",
   "runtime~main.js": "/Portfolio/static/js/runtime~main.3b961160.js",
@@ -11,12 +11,12 @@
   "static/media/cssgradientgenerator.jpg": "/Portfolio/static/media/cssgradientgenerator.f15e38fa.jpg",
   "static/media/robofriends.jpg": "/Portfolio/static/media/robofriends.854a118e.jpg",
   "static/media/faceapp.jpg": "/Portfolio/static/media/faceapp.7505b075.jpg",
-  "static/media/learnkorean.jpg": "/Portfolio/static/media/learnkorean.c99d85c3.jpg",
+  "static/media/basic-ecommerce.jpg": "/Portfolio/static/media/basic-ecommerce.78028596.jpg",
   "static/media/expense.jpg": "/Portfolio/static/media/expense.1c8609bf.jpg",
   "static/media/quote.jpg": "/Portfolio/static/media/quote.bb188f8d.jpg",
   "static/media/pig.jpg": "/Portfolio/static/media/pig.cb4325b9.jpg",
   "static/css/main.9dda6fa5.chunk.css.map": "/Portfolio/static/css/main.9dda6fa5.chunk.css.map",
   "index.html": "/Portfolio/index.html",
-  "precache-manifest.cc59edd810090dfc991ea1e93cc78584.js": "/Portfolio/precache-manifest.cc59edd810090dfc991ea1e93cc78584.js",
+  "precache-manifest.bf042244fb69302c02705c16169fa193.js": "/Portfolio/precache-manifest.bf042244fb69302c02705c16169fa193.js",
   "service-worker.js": "/Portfolio/service-worker.js"
 }
