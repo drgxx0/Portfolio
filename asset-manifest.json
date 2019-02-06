@@ -1,14 +1,14 @@
 {
   "main.css": "/Portfolio/static/css/main.c4751b2a.chunk.css",
-  "main.js": "/Portfolio/static/js/main.72591f65.chunk.js",
-  "main.js.map": "/Portfolio/static/js/main.72591f65.chunk.js.map",
+  "main.js": "/Portfolio/static/js/main.4bf3689c.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.4bf3689c.chunk.js.map",
   "static/js/1.7217110a.chunk.js": "/Portfolio/static/js/1.7217110a.chunk.js",
   "static/js/1.7217110a.chunk.js.map": "/Portfolio/static/js/1.7217110a.chunk.js.map",
   "runtime~main.js": "/Portfolio/static/js/runtime~main.3b961160.js",
   "runtime~main.js.map": "/Portfolio/static/js/runtime~main.3b961160.js.map",
   "static/media/head.jpg": "/Portfolio/static/media/head.9a29976e.jpg",
   "static/media/profile.jpg": "/Portfolio/static/media/profile.96dbc23c.jpg",
-  "static/media/cssgradientgenerator.jpg": "/Portfolio/static/media/cssgradientgenerator.f15e38fa.jpg",
+  "static/media/paginaprueba.jpg": "/Portfolio/static/media/paginaprueba.4cefdb96.jpg",
   "static/media/robofriends.jpg": "/Portfolio/static/media/robofriends.854a118e.jpg",
   "static/media/faceapp.jpg": "/Portfolio/static/media/faceapp.7505b075.jpg",
   "static/media/basic-ecommerce.jpg": "/Portfolio/static/media/basic-ecommerce.78028596.jpg",
@@ -18,6 +18,6 @@
   "static/media/weight.jpg": "/Portfolio/static/media/weight.4a809cf6.jpg",
   "static/css/main.c4751b2a.chunk.css.map": "/Portfolio/static/css/main.c4751b2a.chunk.css.map",
   "index.html": "/Portfolio/index.html",
-  "precache-manifest.45841b9893f903ca856f7fa22914bc93.js": "/Portfolio/precache-manifest.45841b9893f903ca856f7fa22914bc93.js",
+  "precache-manifest.cc14fd4f31442f61c518a4566d6086bf.js": "/Portfolio/precache-manifest.cc14fd4f31442f61c518a4566d6086bf.js",
   "service-worker.js": "/Portfolio/service-worker.js"
 }
